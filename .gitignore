@@ -1,7 +1,6 @@
 # ignore all files in:
 DATA/
 CLEANDATA/
-IMAGES/
 
 # ignore file
 .DS_Store

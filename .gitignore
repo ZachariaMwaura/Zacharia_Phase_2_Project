@@ -1,0 +1,10 @@
+# ignore all files in:
+DATA/
+CLEANDATA/
+IMAGES/
+
+# ignore file
+.DS_Store
+
+# ignore
+3e94eceb51de51c72aec441911b56fd6
